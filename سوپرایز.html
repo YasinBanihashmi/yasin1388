@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سوپرایز</title>
+<style>
+@font-face {
+    font-family: yasin;
+    src: url(yekan3.ttf);
+}
+
+body{text-align: center; font-family: yasin;}
+.div1{width: 500px;  height: 300px;  background-color: rgb(75, 75, 235);text-align: center; margin: auto;border-radius: 10px;}
+.but1{margin: 24px; padding: 20px;width: 100px;height: 50px;; background-color: rgb(211, 188, 14); border-radius: 30px;font-family: yasin; font-size: 20px;border: 3px;}
+.but2{margin: 24px; padding: 20px ;width: 100px;height: 50px;background-color: rgb(211, 188, 14); border-radius: 30px;font-family: yasin; font-size: 20px; border: 3px;}
+
+.but1:hover{background-color: aliceblue;}
+.but2:hover{background-color: aliceblue; opacity: 0.0; display: none;}
+
+.hidden {
+    display: none;
+}
+
+
+#messageBox {
+    margin-top: 20px;
+}
+
+
+input{padding: 5px; background-color:rgb(255, 255, 255) ; font-family: yasin; border-radius: 30px; fiter: drop-shadow(5px 5px 8px red) ; border: 3px solid red;outline-color: red;}
+
+#submitButton{ background-color: rgb(211, 188, 14); padding: 10px; border-radius: 20px; border: red; font-family: yasin;}
+
+</style>
+
+
+
+
+
+</head>
+<body>
+<br><br>  <br>  <br>  <br>  <br>  <br>  
+<div class="div1">
+<h1>شماره میدی؟🥳</h1>
+<br>
+<button  id="showInputButton" class="but1">اره</button>
+<button  class="but2">نه</button>
+
+<div id="messageBox" class="hidden">
+    <p>شماره بده خوشگله😎</p>
+    <form>
+    <input  onmouseout="yasin()"  type="text" id="phoneInput" placeholder="شماره تلفن">
+    <button  onclick="yasin1()" id="submitButton">ارسال</button>
+</form>
+</div>
+</div>
+
+
+
+
+
+
+    
+</body>
+<script>
+    // انتخاب عناصر
+const showInputButton = document.getElementById('showInputButton');
+const messageBox = document.getElementById('messageBox');
+const phoneInput = document.getElementById('phoneInput');
+const submitButton = document.getElementById('submitButton');
+
+// اضافه کردن رویداد کلیک به دکمه
+showInputButton.addEventListener('click', () => {
+    // نمایش پیغام و فیلد ورودی
+    messageBox.classList.remove('hidden');
+});
+
+// اضافه کردن رویداد کلیک به دکمه ارسال
+submitButton.addEventListener('click', () => {
+    const phoneNumber = phoneInput.value;
+    if (phoneNumber) {
+        alert(`افرین بچه خوب`);
+    } else {
+        alert('شمارت بزن😐');
+    }
+});
+
+
+function yasin(){
+    alert('بدههههههههههههههههههه🙁 کجا رفتی☹')
+}
+
+
+function yasin1(){
+    alert('ممنونم اما اینجا برام نمیاد باید بری تو تلگرام بفرستیش برام😗')
+}
+
+
+
+</script>
+</html>
