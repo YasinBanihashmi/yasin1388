@@ -1,161 +1,161 @@
 #js-rotating{
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .section-heading h2 span {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 #back-to-top .top:hover {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .nav-menu ul li a:hover {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .navbar-brand i{
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .nav-menu ul li a.active {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .slideouticons label.mainlabel {
    
-    background: #11cfe7;
+    background: #03b8ff;
    
 }
 .slideouticons input:checked ~ label.mainlabel {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .list-award li span b {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 
 .typo-pg {
-    border-right: 3px solid #11cfe7;
+    border-right: 3px solid #03b8ff;
 }
 .single-service:hover{
-    border-bottom: 3px solid #11cfe7;  
+    border-bottom: 3px solid #03b8ff;  
 }
 
 .single-service:hover .service-icon {
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 
 }
 .single-service .service-icon i:before {
-    color: #11cfe7
+    color: #03b8ff
 }
 .single-service > h5 > a:hover {
-    color: #11cfe7
+    color: #03b8ff
 }
 
 .user-interface .title {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .form-control:focus {
-    border-color: #11cfe7;
+    border-color: #03b8ff;
 }
 #contact-form .button{
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 }
 .footer-logo{
-    color:#11cfe7;
+    color:#03b8ff;
 }
 .footer-btm a:hover {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .button.btn-white{
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .button.btn-default{
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 }
 .contact .box-info {
-  background-color: #11cfe7;
+  background-color: #03b8ff;
 }
 .footer-btm a:hover {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .footer .footer-social ul li a:hover {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .footer-social .tooltip:after,
 .footer-social [data-tooltip]:after {
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 }
 .footer-social [data-tooltip]:before,
 .footer-social .tooltip:before,
 .footer-social .tooltip-top:before {
-    border-top-color: #11cfe7;
+    border-top-color: #03b8ff;
 }
 .mr-star i {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .team-area .owl-pagination .owl-page.active span {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .submit-subscribe-btn {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 
 .isotope-filters button.active,
 .isotope-filters button:hover {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .isotope-filters.isotope-tooltip button span {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .isotope-filters.isotope-tooltip button span:after {
-    border-top: 8px solid #11cfe7;
+    border-top: 8px solid #03b8ff;
 }
 .mr-blog-entry:hover h5{
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .mr-entry-image .tag {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .mr-entry-image .date {
-    background: #11cfe7;  
+    background: #03b8ff;  
 }
 .mr-entry-title a:hover h5 {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .mr-entry-meta li a:hover {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .plan-price h3 i{
-    color: #11cfe7;
+    color: #03b8ff7;
 }
 .plan.featured .plan-price {
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 }
 a.button.border,
 a.button, .button {
-    color: #11cfe7;
-    border: 1px solid #11cfe7;
+    color: #03b8ff;
+    border: 1px solid #03b8ff;
 }
 .plan a.button:hover,
 .plan.featured a.button {
-    background-color: #11cfe7;
+    background-color: #03b8ff;
 }
 .gen {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .counter-section .counter .icon i {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .isotope-filters button.active,
 .isotope-filters button:hover {
-    background: #11cfe7;
+    background: #03b8ff;
 }
 .plan.featured .listing-badge span {
-    color: #11cfe7;
+    color: #03b8ff;
 }
 .marv-portfolio:hover .mr-overbg {
     background: rgba(17, 207, 231, 0.65);
 }
 .button.btn-default:hover{
-    color: #11cfe7;
+    color: #03b8ff;
 }
 @media (max-width: 991px) {
      .navber-area .nav-menu {
-        background: #11cfe7;
+        background: #03b8ff;
      }
 }
