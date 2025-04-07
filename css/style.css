@@ -742,7 +742,7 @@ li.marv-share {
     opacity: .6;
 }
 .bg_secondry {
-    background: url(../images/bg.jpg) no-repeat fixed;
+    background: url(../images/bg.png) no-repeat fixed;
     color: #ffffff;
     position: relative;
     background-size: cover;
@@ -1371,6 +1371,7 @@ textarea.form-control {
     color: #ffffff;
     position: relative;
     background-size: cover;
+ 
 }
 
 .single-prallex:before {
@@ -2849,3 +2850,4 @@ div.layout-style {
     background-color: #fff;
 }
 
+.img-responsive0{border-radius: 99999px; width: 100%;}
